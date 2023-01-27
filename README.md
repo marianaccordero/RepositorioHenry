@@ -1,2 +1,1 @@
-# RepositorioHenry
-Este es un repositorio para la homework de henry.
+Este proyecto es una homework del curso henry.
